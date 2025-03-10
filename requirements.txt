@@ -13,3 +13,8 @@ seaborn>=0.13.2
 graphviz>=0.20.1
 tensorflow==2.18.0
 fancyimpute
+torch>=2.6.0
+torchvision>=0.21.0
+torchviz>=0.0.3
+lightning>=2.5.0
+tensorboard>=2.18.0
