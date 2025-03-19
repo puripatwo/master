@@ -17,7 +17,7 @@ Upon opening the notebooks, you can <i class="fas fa-rocket"></i> launch them in
 | 7 | [Convolutional Neural Networks](https://ml-course.github.io/master/notebooks/07%20-%20Convolutional%20Neural%20Networks.html)<sup>1</sup>   | [HTML](https://ml-course.github.io/master/07%20-%20Convolutional%20Neural%20Networks.slides.html)  - [PDF](https://ml-course.github.io/master/07%20-%20Convolutional%20Neural%20Networks.pdf)  | [Youtube](https://www.youtube.com/watch?v=D-7JgAUlxb4&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 8 | [Transformers](https://ml-course.github.io/master/notebooks/08%20-%20Transformers.html)<sup>1</sup>   | [HTML](https://ml-course.github.io/master/08%20-%20Transformers.slides.html)  - [PDF](https://ml-course.github.io/master/08%20-%20Transformers.pdf)  | [Youtube](https://www.youtube.com/watch?v=THbqTlVNIPg&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 
-<sup>1</sup> These lectures (slides and video recordings) will be slightly updated by the end of the spring break.<br>
+<sup>1</sup> These lectures (slides and video recordings) will be slightly updated.<br>
 <sup>2</sup> The order of the slides in the video is slightly different.
 
 ```{admonition} Get your hands dirty
@@ -38,13 +38,9 @@ Download the lab notebooks and solve the questions locally, or launch them in Go
 | 1 | [Linear Models for regression](https://ml-course.github.io/master/labs/Lab%201a%20-%20Linear%20Models%20for%20Regression) <br> [Linear Models for classification](https://ml-course.github.io/master/labs/Lab%201b%20-%20Linear%20Models%20for%20Classification) | [Tutorial](https://ml-course.github.io/master/labs/Lab%201%20-%20Tutorial) | [Lab 1a](https://ml-course.github.io/master/lab_solutions/Lab%201a%20-%20Linear%20Models%20for%20Regression%20Solution) <br> [Lab 1b](https://ml-course.github.io/master/lab_solutions/Lab%201b%20-%20Linear%20Models%20for%20Classification%20Solution) (Release date: 12 Feb, 12:00)
 | 2 | [Model Evaluation](https://ml-course.github.io/master/labs/Lab%202b%20-%20Model%20Evaluation) | [Tutorial](https://ml-course.github.io/master/labs/Lab%202%20-%20Tutorial) | [Lab 2](https://ml-course.github.io/master/lab_solutions/Lab%202%20-%20Model%20Evaluation%20Solution) (Release date: 19 Feb, 12:00)
 | 3 | [Ensembles](https://ml-course.github.io/master/labs/Lab%203a%20-%20Ensembles) <br> [Data engineering](https://ml-course.github.io/master/labs/Lab%203b%20-%20Pipelines) | [Tutorial](https://ml-course.github.io/master/labs/Lab%203%20-%20Tutorial) | [Lab 3a](https://ml-course.github.io/master/lab_solutions/Lab%203a%20-%20Ensembles%20Solution) <br> [Lab 3b](https://ml-course.github.io/master/lab_solutions/Lab%203b%20-%20Pipelines%20Solution) (Release date: 26 Feb, 12:00)
-
-<!-- | 4 | [Neural Networks](https://ml-course.github.io/master/labs/Lab%204%20-%20Neural%20Networks)<sup>1</sup>  |  [Tutorial](https://ml-course.github.io/master/labs/Lab%204%20-%20Tutorial) | [Lab 4](https://ml-course.github.io/master/labs/Lab%204%20-%20Neural%20Networks%20Solution) (Release date: 12 Mar, 12:00)
+| 4 | [Neural Networks](https://ml-course.github.io/master/labs/Lab%204%20-%20Neural%20Networks)<sup>1</sup>  |  [Tutorial](https://ml-course.github.io/master/labs/Lab%204%20-%20Tutorial) | [Lab 4](https://ml-course.github.io/master/labs/Lab%204%20-%20Neural%20Networks%20Solution) (Release date: 12 Mar, 12:00)
 | 5 | [Convolutional Neural Networks](https://ml-course.github.io/master/labs/Lab%205%20-%20Convolutional%20Neural%20Networks)<sup>1</sup>  | / | [Lab 5](https://ml-course.github.io/master/labs/Lab%205%20-%20Convolutional%20Neural%20Networks%20Solution) (Release date: 19 Mar, 12:00)
 | 6 | [Transformers](https://ml-course.github.io/master/labs/Lab%206%20-%20Transformers)<sup>1</sup>  |  [Tutorial](https://ml-course.github.io/master/labs/Lab%206%20-%20Tutorial) | [Lab 6](https://ml-course.github.io/master/labs/Lab%206a%20-%20Transformers%20Solution) (Release date: 26 Mar, 12:00)
--->
-
-Labs 4-6 are being redesigned and will be released by the end of the spring break.
 
 ## Background materials
 ### Tutorials
