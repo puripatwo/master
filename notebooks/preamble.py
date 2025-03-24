@@ -37,11 +37,10 @@ plt.rcParams["figure.max_open_warning"] = -1
 plt.rcParams['font.size'] = 8; 
 plt.rcParams['lines.linewidth'] = 0.5
 
-
 # Presentations
-#from notebook.services.config import ConfigManager
-#cm = ConfigManager()
-#cm.update('livereveal', {'width': '95%', 'height': 786, 'scroll': True, 'theme': 'serif', 'transition': 'fade', 'overflow': 'visible', 'start_slideshow_at': 'selected'})
+from notebook.services.config import ConfigManager
+cm = ConfigManager()
+cm.update('livereveal', {'width': '95%', 'height': 786, 'scroll': True, 'theme': 'simple', 'transition': 'fade', 'overflow': 'visible', 'start_slideshow_at': 'selected'})
 
 # Silence warnings
 import warnings
@@ -52,7 +51,8 @@ warnings.simplefilter(action="ignore", category=DeprecationWarning)
 
 # Styling
 fig_scale = 1
-HTML('''<style>html, body{overflow-y: visible !important} .CodeMirror{min-width:105% !important;} .rise-enabled .CodeMirror, .rise-enabled .output_subarea{font-size:140%; line-height:1.2; overflow: visible;} .output_subarea pre{width:110%}</style>''')
+HTML('''<style>html, body{overflow-y: visible !important} .CodeMirror{min-width:105% !important;} .rise-enabled .CodeMirror, .rise-enabled .output_subarea{font-size:100%; line-height:1.2; overflow: visible;} .output_subarea pre{width:110%}</style>''')
+HTML('''<style>.reveal pre code {max-height: 1000px !important;}</style>''')
 
 print_config = {
     'figure.dpi': 300,
